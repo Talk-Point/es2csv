@@ -1,6 +1,8 @@
 es2csv
 ======
 
+Only add Support for Python3
+
 A CLI tool for exporting data from Elasticsearch into a CSV file
 ----------------------------------------------------------------
 
